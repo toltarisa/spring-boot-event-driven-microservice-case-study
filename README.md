@@ -19,3 +19,5 @@ Event Driven Microservice Beginner Case Study using Spring Boot & RabbitMQ
 ```
 
 ### Architecture Diagram
+
+![Architecture](https://drive.google.com/uc?id=1veWKa7U7x11VlGQ0IJ_BC4SufUd6F7Md)
